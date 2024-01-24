@@ -1,3 +1,9 @@
+import app.cash.sqldelight.db.SqlDriver
+import app.cash.sqldelight.driver.native.NativeSqliteDriver
+import com.example.Database
+import com.example.sqldelight.hockey.data.HockeyPlayer
+import com.example.sqldelight.hockey.data.PlayerQueries
+
 fun main() {
     println("Hello, Kotlin/Native!")
     val driver: SqlDriver = NativeSqliteDriver(Database.Schema, "test.db")
