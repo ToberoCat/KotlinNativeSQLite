@@ -1,0 +1,5 @@
+https://github.com/touchlab/SQLiter/pull/38
+https://github.com/cashapp/sqldelight/blob/master/drivers/native-driver/build.gradle#L99-L101
+https://github.com/cashapp/sqldelight/issues/3033
+https://touchlab.github.io/SQLiter/usage
+https://github.com/touchlab/SQLiter
